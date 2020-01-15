@@ -17,7 +17,6 @@ MathJax.Hub.Config({
 <body>
 <div id="layout-content">
 <div id="toptitle">
-<h1>Home Page of Borui Zhao</h1>
 </div>
 <table class="imgtable"><tr><td>
 <img src="zbr.jpg" alt="Borui Zhao" />&nbsp;</td>
