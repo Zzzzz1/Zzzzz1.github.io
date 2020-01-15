@@ -22,7 +22,7 @@ MathJax.Hub.Config({
 <table class="imgtable"><tr><td>
 <img src="zbr.jpg" alt="Borui Zhao" />&nbsp;</td>
 <td align="left"><p>Borui Zhao,<br />
-M.Sc.
+M.D.<br />
 Department of Electronic Engineering<br />
 Nanjing University<br /><br /></p>
 </td></tr></table>
