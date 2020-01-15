@@ -54,9 +54,6 @@ Nanjing University<br /><br /></p>
 <h3>Office</h3>
 <p>15th Floor, Tower A, No.6 Xingzhi Rd., Nanjing</p>
 <div id="footer">
-<div id="footer-text">
-Page generated 2020-01-15 16:43:26 CST, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
-</div>
 </div>
 </div>
 </body>
