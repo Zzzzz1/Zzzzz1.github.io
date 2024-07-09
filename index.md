@@ -27,15 +27,24 @@ Nanjing University<br /><br /></p>
 </td></tr></table>
 <h2>About Me</h2>
 <ul>
-<li><p>I am currently a Research Assistant of Megvii Research Nanjing, Megvii Technology.</p>
+<li><p>I am currently a Senior AI Engineer of Horizon Robotics.</p>
+</li>
+<li><p>I used to be a Researcher of Megvii Research Nanjing, Megvii Technology.</p>
 </li>
 <li><p>I received my M.Sc.degree in Electronic Engineering from Nanjing University in 2019.</p>
 </li>
 <li><p>I received my B.Sc.degree in Electronic Engineering from Nanjing University in 2016.</p>
 </li>
 </ul>
-<h2>Research Interests</h2>
-<p>My research interests include <b>Computer Vision</b>, <b>General Object Detection</b> and <b>Deep Learning</b></p>
+<h2>Published Papers</h2>
+<ul>
+<li><p> Decoupled knowledge distillation. CVPR-2022 </p>
+</li>
+<li><p> Cumulative spatial knowledge distillation for vision transformers. ICCV-2023 </p>
+</li>
+<li><p> DOT: A Distillation-Oriented Trainer. ICCV-2023 </p>
+</li>
+</ul>
 <h2>Competitions</h2>
 <ul>
 <li><p><b>The first place</b> of the iNaturalist track in FGVC 6 (in association with CVPR 2019), 2019.</p>
@@ -43,6 +52,8 @@ Nanjing University<br /><br /></p>
 <li><p><b>The first place</b> of the Herbarium track in FGVC 6 (in association with CVPR 2019), 2019.</p>
 </li>
 </ul>
+<h2>Research Interests</h2>
+<p>My research interests include <b>Computer Vision</b>, <b>General Object Detection</b> and <b>Deep Learning</b></p>
 <h2>Correspondence</h2>
 <h3>Mail</h3>
 <p>Borui Zhao</p>
